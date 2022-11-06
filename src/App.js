@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './';
 import './App.css';
 import Header from './Component/Header';
 import Centre from './Component/Center_portion'

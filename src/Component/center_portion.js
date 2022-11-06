@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function center_portion() {
   return (
-    <div class="container text-center">
-  <div class="row">
-    <div class="col">
+    <div className="container text-center">
+  <div className="row">
+    <div className="col">
     <div>
       <div className="card" style={{width : 200 ,height : 475}} >
   <img src="Heritag.png" className="card-img-top" alt="..." />
@@ -38,7 +38,7 @@ export default function center_portion() {
 </div>
     </div>
     </div>
-    <div class="col">
+    <div className="col">
     <div>
       <div className="card" style={{width : 200,height : 475}} >
   <img src="smartpind.png" className="card-img-top" alt="..."/>
@@ -75,7 +75,7 @@ export default function center_portion() {
 </div>
     </div>
     </div>
-    <div class="col">
+    <div className="col">
     <div>
     <div className="card" style={{width : 200,height : 475}} >
   <img src="subway.png" className="card-img-top" alt="..."/>
@@ -111,7 +111,7 @@ export default function center_portion() {
 </div>
     </div>
     </div>
-    <div class="col">
+    <div className="col">
     <div>
     <div className="card" style={{width : 200,height : 475}} >
   <img src="vegiee.png" className="card-img-top" alt="..."/>
@@ -147,7 +147,7 @@ export default function center_portion() {
 </div>
     </div>
     </div>
-    <div class="col">
+    <div className="col">
     <div>
     <div className="card" style={{width : 200,height : 475}} >
   <img src="foodcity.png" className="card-img-top" alt="..."/>

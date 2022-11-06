@@ -17,7 +17,7 @@ export default function center_portion() {
     <li className="list-group-item">IIT Campus, IIT Kharagpur, Kharagpur, West Bengal · - 1 km</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
   </div>
 </div>
 <br></br>
@@ -32,7 +32,7 @@ export default function center_portion() {
     <li className="list-group-item">IIT Campus, IIT Kharagpur, Kharagpur, West Bengal · - 1 km</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
 
   </div>
 </div>
@@ -52,7 +52,7 @@ export default function center_portion() {
 </li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
    
   </div>
  
@@ -69,7 +69,7 @@ export default function center_portion() {
     <li className="list-group-item">Shop No. Oval 3, Inside IIT Kharagpur Campus, Near Patel Hall, Pan Loop</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
    
   </div>
 </div>
@@ -88,7 +88,7 @@ export default function center_portion() {
     <li className="list-group-item">Nalanda Complex, Ardeshir Dalal Ave, IIT Kharagpur</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
 
   </div>
  
@@ -105,7 +105,7 @@ export default function center_portion() {
     <li className="list-group-item">PURIGATE, opposite IIT KHARAGPUR, MAIN GATE</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
     
   </div>
 </div>
@@ -124,7 +124,7 @@ export default function center_portion() {
     <li className="list-group-item">IIT Campus, IIT Kharagpur, Kharagpur, West Bengal -- 1km</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
    
   </div>
 </div>
@@ -141,7 +141,7 @@ export default function center_portion() {
     <li className="list-group-item">IIT KGP Rail Over Bridge, Kharagpur, West Bengal 721301</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu </a>
+    <a href="/React" className="card-link">Menu </a>
 
   </div>
 </div>
@@ -160,7 +160,7 @@ export default function center_portion() {
     <li className="list-group-item">Shop No. RKH-1, IIT Opp. R.K.Hall, Kharagpur</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
   </div>
 </div>
  <br></br>
@@ -175,7 +175,7 @@ export default function center_portion() {
     <li className="list-group-item">SH 5, Prembazar, Kharagpur, West Bengal 721306</li>
   </ul>
   <div className="card-body">
-    <a href="/" className="card-link">Menu</a>
+    <a href="/React" className="card-link">Menu</a>
   </div>
 </div>
     </div>
